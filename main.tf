@@ -11,7 +11,7 @@ terraform {
   }
   required_version = ">= 0.14"
 
-  backend "remote" {
+ backend "remote" {
     organization = "Test_org_pavan"
 
     workspaces {
