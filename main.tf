@@ -15,7 +15,7 @@ terraform {
     organization = "Test_org_pavan"
 
     workspaces {
-      name = "example-workspace"
+      name = "gh-actions-demo"
     }
   }
 }
